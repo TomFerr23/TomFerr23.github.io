@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="167.911" height="192.83" viewBox="0 0 167.911 192.83">
+  <g id="Raggruppa_1" data-name="Raggruppa 1" transform="translate(-749.085 -205.585)">
+    <line id="Linea_1" data-name="Linea 1" y2="93" transform="translate(752.5 255.5)" fill="none" stroke="#26dfd9" stroke-linecap="round" stroke-width="5"/>
+    <line id="Linea_4" data-name="Linea 4" y2="93" transform="translate(913.581 255.5)" fill="none" stroke="#26dfd9" stroke-linecap="round" stroke-width="5"/>
+    <line id="Linea_2" data-name="Linea 2" y2="93" transform="translate(833.04 209) rotate(60)" fill="none" stroke="#26dfd9" stroke-linecap="round" stroke-width="5"/>
+    <line id="Linea_6" data-name="Linea 6" y1="93" transform="translate(913.581 255.5) rotate(120)" fill="none" stroke="#26dfd9" stroke-linecap="round" stroke-width="5"/>
+    <line id="Linea_8" data-name="Linea 8" y1="93" transform="translate(752.5 348.5) rotate(-60)" fill="none" stroke="#26dfd9" stroke-linecap="round" stroke-width="5"/>
+    <line id="Linea_7" data-name="Linea 7" y2="93" transform="translate(833.04 395) rotate(-120)" fill="none" stroke="#26dfd9" stroke-linecap="round" stroke-width="5"/>
+    <path id="T" d="M26.283,122.336V50.356H0V33.392H74.907V50.356H48.624v71.98Z" transform="translate(795.875 228.443)" fill="#26dfd9"/>
+  </g>
+</svg>
